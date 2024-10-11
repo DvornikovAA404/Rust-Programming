@@ -1,0 +1,1 @@
+/mnt/c/Users/advor/Desktop/Рабочий\ стол/Проекты/Личные\ проекты/Rust-Programming/Cargo/hello_cargo/target/release/hello_cargo: /mnt/c/Users/advor/Desktop/Рабочий\ стол/Проекты/Личные\ проекты/Rust-Programming/Cargo/hello_cargo/src/main.rs

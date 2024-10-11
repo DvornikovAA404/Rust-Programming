@@ -1,0 +1,1 @@
+/mnt/c/Users/advor/Desktop/Рабочий\ стол/Проекты/Личные\ проекты/Rust-Programming/Variables/target/debug/Variables: /mnt/c/Users/advor/Desktop/Рабочий\ стол/Проекты/Личные\ проекты/Rust-Programming/Variables/src/main.rs
