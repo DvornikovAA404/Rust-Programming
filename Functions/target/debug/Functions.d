@@ -1,0 +1,1 @@
+/mnt/c/Users/advor/Desktop/Рабочий\ стол/Проекты/Личные\ проекты/Rust-Programming/Functions/target/debug/Functions: /mnt/c/Users/advor/Desktop/Рабочий\ стол/Проекты/Личные\ проекты/Rust-Programming/Functions/src/main.rs
